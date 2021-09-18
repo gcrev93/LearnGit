@@ -1,0 +1,1 @@
+Teaching my favorite cohort how to use Git!
